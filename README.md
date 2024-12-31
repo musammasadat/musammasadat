@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://clarikagroup.com/wp-content/uploads/2022/08/What-sets-apart-great-programmers.png)
+![MasterHead](https://clarikagroup.com/wp-content/uploads/2022/08/What-sets-apart-great-programmers.png)
 <h1 align="center">Hi 👋, I'm Musamma Sadat</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
